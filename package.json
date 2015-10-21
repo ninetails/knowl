@@ -1,0 +1,19 @@
+{
+  "name": "knowl",
+  "version": "0.0.1",
+  "description": "Ninetails' knowledge base",
+  "scripts": {
+    "start": "melkor --title 'Knowl'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninetails/knowl.git"
+  },
+  "keywords": [
+    "knowledge base",
+    "javascript"
+  ],
+  "author": "Ninetails - Carlos Kazuo",
+  "license": "MIT",
+  "homepage": "https://github.com/ninetails/knowl#readme"
+}
