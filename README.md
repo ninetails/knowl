@@ -1,3 +1,3 @@
 # Personal knowledge base
 
-Navigate on documents.
+To read documents, clone this repository and run *nodewiki* on root.
